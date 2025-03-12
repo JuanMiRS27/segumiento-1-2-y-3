@@ -1,0 +1,3 @@
+Profesor, en estos ejercicios de functions no me habia quedado claro lo que habia que hacer exactamente, 
+lo que yo pregunte y me respondieron fue que habia que cambiar algunas cosas o cambiar los valores de las variables en las funciones 
+presentadas, cosa la cual yo hice, cualquier malentendido o fallo en la actividad acepto mi error.
